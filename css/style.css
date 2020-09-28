@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    overflow: hidden;
+    background-color: purple;
+    height: 100px;
+    text-align: center;
+    color: white;
+}
+header h1{
+    padding-top: 30px;
+}
+.content{
+    overflow: hidden;
+
+}
+.left{
+    background-color: violet;
+    height: 500px;
+    width: 20%;
+    float: left;
+    text-align: center;
+    color: white;
+
+}
+.right{
+    background-color: thistle;
+    height: 500px;
+    width: 20%;
+    float: left;
+    text-align: center;
+    color: white;
+    
+
+}
+.center{
+    background-color: wheat;
+    height: 500px;
+    width: 60%;
+    float: left;
+    text-align: center;
+    color: white;
+}
+.top{
+    background-color: teal;
+    height: 30%;
+    text-align: center;
+    color: white;
+
+}
+.middle{
+    background-color: yellow;
+    height: 40%;
+
+
+}
+.bottom{
+    background-color: rosybrown;
+    height: 30%;
+
+}
+footer{
+    background-color: peru;
+    height: 100px;
+    text-align: center;
+    color: white;
+}
+
+
+    
+
+
